@@ -8,12 +8,11 @@ public class Main{
         /*
         Desafio 1 - Mostre a lista na ordem numérica:
         Crie um programa que utilize a Stream API para ordenar a lista de números em ordem crescente e a exiba no console.
-        */
 
-        /*Desafio 2 - Imprima a soma dos números pares da lista:
+        Desafio 2 - Imprima a soma dos números pares da lista:
         Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console.
 
-                Desafio 3 - Verifique se todos os números da lista são positivos:
+        Desafio 3 - Verifique se todos os números da lista são positivos:
         Com a ajuda da Stream API, verifique se todos os números da lista são positivos e exiba o resultado no console.
 
         Desafio 4 - Remova todos os valores ímpares:
@@ -52,20 +51,21 @@ public class Main{
         Desafio 15 - Verifique se a lista contém pelo menos um número negativo:
         Utilizando a Stream API, verifique se a lista contém pelo menos um número negativo e exiba o resultado no console.
 
-                Desafio 16 - Calcule o fatorial de um número:
+        Desafio 16 - Calcule o fatorial de um número:
         Crie um programa que receba um número inteiro como entrada e, utilizando a Stream API, calcule o fatorial desse número e exiba o resultado no console.
 
         Desafio 17 - Agrupe os números em pares e ímpares:
         Utilize a Stream API para agrupar os números em duas listas separadas, uma contendo os números pares e outra contendo os números ímpares da lista original, e exiba os resultados no console.
 
-                Desafio 18 - Filtrar os números primos da lista:
+        Desafio 18 - Filtrar os números primos da lista:
         Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.
 
-                Desafio 19 - Verifique se todos os números da lista são iguais:
+        Desafio 19 - Verifique se todos os números da lista são iguais:
         Utilizando a Stream API, verifique se todos os números da lista são iguais e exiba o resultado no console.
 
         Desafio 20 - Encontre a soma dos números divisíveis por 3 e 5:
-        Com a Stream API, encontre a soma dos números da lista que são divisíveis tanto por 3 quanto por 5 e exiba o resultado no console.*/
+        Com a Stream API, encontre a soma dos números da lista que são divisíveis tanto por 3 quanto por 5 e exiba o resultado no console.
+        */
 
     }
 }

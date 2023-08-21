@@ -11,6 +11,8 @@ public class Desafio1 {
         Crie um programa que utilize a Stream API para ordenar a lista de números em ordem crescente e a exiba no console.
         */
         System.out.println("Desafio 1");
-        numeros.stream().sorted().forEach(System.out::println);
+        numeros.stream()
+                .sorted()
+                .forEach(System.out::println);
     }
 }
