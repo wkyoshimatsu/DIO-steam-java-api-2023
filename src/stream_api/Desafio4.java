@@ -14,6 +14,6 @@ public class Desafio4 {
                 .filter(n -> (n % 2 != 0))
                 .toList();
         numerosCopiados.removeAll(imparesParaRemover);
-        System.out.println(numerosCopiados);
+        System.out.println("A lista de números com os números ímpares removidos: " + numerosCopiados);
     }
 }

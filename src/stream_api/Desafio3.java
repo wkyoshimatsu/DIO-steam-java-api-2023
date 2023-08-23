@@ -10,6 +10,6 @@ public class Desafio3 {
 
         boolean todosPositivos = numeros.stream()
                 .allMatch(n -> (n >= 0));
-        System.out.println(todosPositivos);
+        System.out.println("Todos os números são positivos? " + todosPositivos);
     }
 }

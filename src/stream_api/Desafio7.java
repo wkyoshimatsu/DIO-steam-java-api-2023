@@ -14,6 +14,6 @@ public class Desafio7 {
                 .sorted(Comparator.reverseOrder())
                 .toList();
         int segundoMaior = numerosCopiados.get(1);
-        System.out.println(segundoMaior);
+        System.out.println("O segundo maior número da lista é " + segundoMaior);
     }
 }

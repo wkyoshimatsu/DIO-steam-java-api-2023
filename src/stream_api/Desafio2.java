@@ -12,6 +12,6 @@ public class Desafio2 {
         int somaPares = numeros.stream()
                 .filter(n -> (n % 2) == 0)
                 .reduce(0, Integer::sum);
-        System.out.println(somaPares);
+        System.out.println("A soma dos números pares da lista é: " + somaPares);
     }
 }

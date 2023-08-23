@@ -11,6 +11,6 @@ public class Desafio8 {
         int soma = numeros.stream()
                 .mapToInt(Integer::intValue)
                 .sum();
-        System.out.println(soma);
+        System.out.println("A soma dos números da lista é: " + soma);
     }
 }
