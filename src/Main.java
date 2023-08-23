@@ -36,7 +36,7 @@ public class Main{
 
         /* Desafio 8 - Somar os dígitos de todos os números da lista:
         Utilizando a Stream API, realize a soma dos dígitos de todos os números da lista e exiba o resultado no console.*/
-        //Desafio8.solucao(numeros);
+        Desafio8.solucao(numeros);
 
         /* Desafio 9 - Verificar se todos os números da lista são distintos (não se repetem):
         Com a Stream API, verifique se todos os números da lista são distintos (não se repetem) e exiba o resultado no
