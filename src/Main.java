@@ -49,7 +49,7 @@ public class Main{
 
         /* Desafio 11 - Encontre a soma dos quadrados de todos os números da lista:
         Utilizando a Stream API, encontre a soma dos quadrados de todos os números da lista e exiba o resultado no console.*/
-        //Desafio11.solucao(numeros);
+        Desafio11.solucao(numeros);
 
         /* Desafio 12 - Encontre o produto de todos os números da lista:
         Com a ajuda da Stream API, encontre o produto de todos os números da lista e exiba o resultado no console.*/
