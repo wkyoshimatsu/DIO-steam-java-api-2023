@@ -9,11 +9,9 @@ public class Desafio4 {
         Utilize a Stream API para remover os valores ímpares da lista e imprima a lista resultante no console.*/
         System.out.println("Desafio 4");
 
-        List<Integer> numerosCopiados = new ArrayList<>(numeros);
-        List<Integer> imparesParaRemover = numerosCopiados.stream()
-                .filter(n -> (n % 2 != 0))
+        List<Integer> pares = numeros.stream()
+                .filter(n -> (n % 2 == 0))
                 .toList();
-        numerosCopiados.removeAll(imparesParaRemover);
-        System.out.println("A lista de números com os números ímpares removidos: " + numerosCopiados);
+        System.out.println("A lista de números com os números ímpares removidos: " + pares);
     }
 }
