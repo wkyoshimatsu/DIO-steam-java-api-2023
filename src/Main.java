@@ -80,7 +80,7 @@ public class Main{
 
         /* Desafio 18 - Filtrar os números primos da lista:
         Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.*/
-        //Desafio18.solucao(numeros);
+        Desafio18.solucao(numeros);
 
         /* Desafio 19 - Verifique se todos os números da lista são iguais:
         Utilizando a Stream API, verifique se todos os números da lista são iguais e exiba o resultado no console.*/
