@@ -76,7 +76,7 @@ public class Main{
         /* Desafio 17 - Agrupe os números em pares e ímpares:
         Utilize a Stream API para agrupar os números em duas listas separadas, uma contendo os números pares e outra
         contendo os números ímpares da lista original, e exiba os resultados no console.*/
-        //Desafio17.solucao(numeros);
+        Desafio17.solucao(numeros);
 
         /* Desafio 18 - Filtrar os números primos da lista:
         Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.*/

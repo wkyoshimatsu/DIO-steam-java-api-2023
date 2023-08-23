@@ -1,9 +1,6 @@
 package stream_api;
 
-import java.util.List;
-import java.util.function.Supplier;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Desafio16 {
     public static void solucao(int numero) {
