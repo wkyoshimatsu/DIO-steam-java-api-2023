@@ -58,7 +58,7 @@ public class Main{
         /* Desafio 13 - Filtrar os números que estão dentro de um intervalo:
         Utilize a Stream API para filtrar os números que estão dentro de um intervalo específico (por exemplo, entre 5
         e 10) e exiba o resultado no console.*/
-        //Desafio13.solucao(numeros);
+        Desafio13.solucao(numeros,3, 5);
 
         /* Desafio 14 - Encontre o maior número primo da lista:
         Com a Stream API, encontre o maior número primo da lista e exiba o resultado no console.*/
