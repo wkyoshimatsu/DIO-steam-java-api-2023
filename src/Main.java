@@ -62,7 +62,7 @@ public class Main{
 
         /* Desafio 14 - Encontre o maior número primo da lista:
         Com a Stream API, encontre o maior número primo da lista e exiba o resultado no console.*/
-        //Desafio14.solucao(numeros);
+        Desafio14.solucao(numeros);
 
         /* Desafio 15 - Verifique se a lista contém pelo menos um número negativo:
         Utilizando a Stream API, verifique se a lista contém pelo menos um número negativo e exiba o resultado no console.*/

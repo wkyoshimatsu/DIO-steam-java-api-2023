@@ -10,7 +10,7 @@ public class Desafio13 {
         e 10) e exiba o resultado no console.*/
         System.out.println("Desafio 13");
 
-        System.out.println("A lista dos números que estão entre" + minimo + " e " + maximo + ": ");
+        System.out.print("A lista dos números que estão entre " + minimo + " e " + maximo + ": ");
         numeros.stream()
                 .filter(numero -> numero >= minimo && numero <= maximo)
                 .forEach(n -> System.out.print(n + " "));
