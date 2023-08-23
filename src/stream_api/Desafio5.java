@@ -14,6 +14,6 @@ public class Desafio5 {
                 .filter(n -> (n > 5))
                 .mapToDouble(Integer::doubleValue)
                 .average();
-        System.out.println("A média dos números maiores que 5 é: " + mediaMaioresQueCinco);
+        System.out.println("A média dos números maiores que 5 é: " + mediaMaioresQueCinco.getAsDouble());
     }
 }

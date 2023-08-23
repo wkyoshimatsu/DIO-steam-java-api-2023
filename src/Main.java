@@ -66,7 +66,7 @@ public class Main{
 
         /* Desafio 15 - Verifique se a lista contém pelo menos um número negativo:
         Utilizando a Stream API, verifique se a lista contém pelo menos um número negativo e exiba o resultado no console.*/
-        //Desafio15.solucao(numeros);
+        Desafio15.solucao(numeros);
 
         /* Desafio 16 - Calcule o fatorial de um número:
         Crie um programa que receba um número inteiro como entrada e, utilizando a Stream API, calcule o fatorial desse

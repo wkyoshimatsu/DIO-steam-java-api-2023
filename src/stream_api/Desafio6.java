@@ -12,6 +12,6 @@ public class Desafio6 {
 
         boolean existeMaiorQueDez = numeros.stream()
                 .anyMatch(n -> n > 10);
-        System.out.println("Existe algum némero maior que 10? " + existeMaiorQueDez);
+        System.out.println("Existe algum número maior que 10? " + existeMaiorQueDez);
     }
 }
