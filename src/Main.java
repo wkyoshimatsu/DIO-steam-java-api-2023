@@ -71,7 +71,7 @@ public class Main{
         /* Desafio 16 - Calcule o fatorial de um número:
         Crie um programa que receba um número inteiro como entrada e, utilizando a Stream API, calcule o fatorial desse
         número e exiba o resultado no console.*/
-        //Desafio16.solucao(numeros);
+        Desafio16.solucao(10);
 
         /* Desafio 17 - Agrupe os números em pares e ímpares:
         Utilize a Stream API para agrupar os números em duas listas separadas, uma contendo os números pares e outra
