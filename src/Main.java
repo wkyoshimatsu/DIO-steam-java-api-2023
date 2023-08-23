@@ -84,7 +84,7 @@ public class Main{
 
         /* Desafio 19 - Verifique se todos os números da lista são iguais:
         Utilizando a Stream API, verifique se todos os números da lista são iguais e exiba o resultado no console.*/
-        //Desafio19.solucao(numeros);
+        Desafio19.solucao(numeros);
 
         /* Desafio 20 - Encontre a soma dos números divisíveis por 3 e 5:
         Com a Stream API, encontre a soma dos números da lista que são divisíveis tanto por 3 quanto por 5 e exiba o

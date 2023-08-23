@@ -6,7 +6,7 @@ public class Desafio18 {
     public static void solucao(List<Integer> numeros) {
         /* Desafio 18 - Filtrar os números primos da lista:
         Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.*/
-        System.out.println("Desafio 17");
+        System.out.println("Desafio 18");
 
         List<Integer> numerosPrimos = numeros.stream()
                 .filter(n -> {
